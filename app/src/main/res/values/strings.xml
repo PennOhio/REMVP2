@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">REMVP2</string>
+    <string name="_44a_rochester_road">44a Rochester Road</string>
+    <string name="nothing_yet">Nothing Yet</string>
+    <string name="submit">Submit</string>
+    <string name="quote_format">\"%s\"</string>
+</resources>

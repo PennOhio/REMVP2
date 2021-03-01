@@ -1,0 +1,2 @@
+rootProject.name = "REMVP2"
+include ':app'
